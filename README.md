@@ -12,6 +12,9 @@
 * [OpenSea](http://opensea.io/) - opensea.io
 * [Rarible](https://rarible.com/) - rarible.com
 
+## YouTube :tv:
+* [NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM) - Johnny Harris
+
 ## Projects
 * [CryptoPunks](https://www.larvalabs.com/cryptopunks) - larvalabs.com
 
