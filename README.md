@@ -9,6 +9,7 @@
 
 ## Providers
 * [Binance NFT](https://www.binance.com/en/nft) - binance.com
+* [OpenSea](http://opensea.io/) - opensea.io
 
 ## Blogs
 * [NFT School](https://nftschool.dev/) - nftschool.dev
