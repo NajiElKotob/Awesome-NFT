@@ -14,6 +14,8 @@
 
 ## YouTube :tv:
 * [NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM) - Johnny Harris
+* [How to turn your art into an NFT – Step by Step Tutorial](https://www.youtube.com/watch?v=CFD_8oDxw1k) - 3D Gladiator
+
 
 ## Projects
 * [CryptoPunks](https://www.larvalabs.com/cryptopunks) - larvalabs.com
