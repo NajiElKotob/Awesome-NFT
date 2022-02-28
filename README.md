@@ -12,5 +12,9 @@
 * [OpenSea](http://opensea.io/) - opensea.io
 * [Rarible](https://rarible.com/) - rarible.com
 
+## Projects
+* [CryptoPunks](https://www.larvalabs.com/cryptopunks) - larvalabs.com
+
+
 ## Blogs
 * [NFT School](https://nftschool.dev/) - nftschool.dev
