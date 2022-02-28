@@ -8,7 +8,7 @@
 * [Non-fungible tokens (NFT)](https://ethereum.org/en/nft/) - ethereum.org
 
 ## Providers
-
+* [Binance NFT](https://www.binance.com/en/nft) - binance.com
 
 ## Blogs
 * [NFT School](https://nftschool.dev/) - nftschool.dev
