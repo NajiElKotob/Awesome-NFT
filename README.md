@@ -10,6 +10,7 @@
 ## Providers
 * [Binance NFT](https://www.binance.com/en/nft) - binance.com
 * [OpenSea](http://opensea.io/) - opensea.io
+* [Rarible](https://rarible.com/) - rarible.com
 
 ## Blogs
 * [NFT School](https://nftschool.dev/) - nftschool.dev
