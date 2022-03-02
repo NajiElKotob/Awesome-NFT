@@ -19,7 +19,7 @@
 
 ## Projects
 * [CryptoPunks](https://www.larvalabs.com/cryptopunks) - larvalabs.com
-
+* [Imaginary Ones](https://mint.imaginary-ones.art/) - mint.imaginary-ones.art
 
 ## Blogs
 * [NFT School](https://nftschool.dev/) - nftschool.dev
