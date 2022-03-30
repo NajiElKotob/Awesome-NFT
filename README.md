@@ -9,9 +9,11 @@
 
 ## Providers
 * [Binance NFT](https://www.binance.com/en/nft) - binance.com
+* [Foundation](https://foundatio.app/) - foundation.app
+* [Mintable](https://mintable.app/) - mintable.app
 * [OpenSea](http://opensea.io/) - opensea.io
 * [Rarible](https://rarible.com/) - rarible.com
-* [Foundation](https://foundatio.app/) - foundation.app
+
 
 
 ## YouTube :tv:
